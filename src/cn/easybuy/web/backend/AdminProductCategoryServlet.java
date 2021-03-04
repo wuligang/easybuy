@@ -10,7 +10,6 @@ import cn.easybuy.utils.EmptyUtils;
 import cn.easybuy.utils.Pager;
 import cn.easybuy.utils.ReturnResult;
 import cn.easybuy.web.AbstractServlet;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServletRequest;
