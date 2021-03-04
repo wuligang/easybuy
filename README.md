@@ -1,3 +1,3 @@
 # easybuy
-## 技术
-### mysql+durid+servlet+jquery+ajax+jsp
+## 技术:
+### mysql+druid+servlet+jquery+ajax+jsp+memcached
