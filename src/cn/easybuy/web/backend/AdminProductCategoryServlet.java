@@ -8,7 +8,6 @@ import cn.easybuy.service.product.ProductServiceImpl;
 import cn.easybuy.utils.Constants;
 import cn.easybuy.utils.EmptyUtils;
 import cn.easybuy.utils.Pager;
-import cn.easybuy.utils.Params;
 import cn.easybuy.utils.ReturnResult;
 import cn.easybuy.web.AbstractServlet;
 
